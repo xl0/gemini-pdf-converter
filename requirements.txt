@@ -1,0 +1,9 @@
+# Kaggle has python 3.10 by the way
+
+tqdm
+pillow
+python-dotenv
+pymupdf
+google-generativeai
+ipywidgets
+ipykernel
